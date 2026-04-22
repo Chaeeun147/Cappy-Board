@@ -10,7 +10,7 @@ I made this project because I wanted to start learning hardware, and I thought t
 
 <img width="708" height="735" alt="image" src="https://github.com/user-attachments/assets/8e4a27bd-6733-46bf-8b0a-fe7c6c0aebe1" />
 
-| Item | Pert Name | Quantity | Description | Cost 
-| -------- | -------- |
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| Item | Pert Name | Quantity | Description | Cost |  |
+| ---- | --------- | -------- | ----------- | ---- | -|
+| 1 | Custom PCB | 1 | PCB | | |
+
