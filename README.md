@@ -10,7 +10,8 @@ I made this project because I wanted to start learning hardware, and I thought t
 
 <img width="708" height="735" alt="image" src="https://github.com/user-attachments/assets/8e4a27bd-6733-46bf-8b0a-fe7c6c0aebe1" />
 
-| Item | Pert Name | Quantity | Description | Cost |   |
-| ---- | --------- | -------- | ----------- | ---- | - |
-| 1 | Custom PCB | 5 | PCB | $2.00 | https://jlcpcb.com/ |
 
+BOM:
+| Pert Name | Quantity | Description | Cost |   |
+| --------- | -------- | ----------- | ---- | - |
+| Custom PCB | 5 | PCB | $2.00 | https://jlcpcb.com/ |
