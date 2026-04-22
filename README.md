@@ -12,6 +12,6 @@ I made this project because I wanted to start learning hardware, and I thought t
 
 
 BOM:
-| Pert Name | Quantity | Description | Cost |   |
-| --------- | -------- | ----------- | ---- | - |
-| Custom PCB | 5 | PCB | $2.00 | https://jlcpcb.com/ |
+| Pert Name | Quantity | Description | Cost | Distrubutor |   |
+| --------- | -------- | ----------- | ---- | ------------| - |
+| Custom PCB | 5 | PCB | $2.00 | JLCPCB | https://jlcpcb.com/ |
