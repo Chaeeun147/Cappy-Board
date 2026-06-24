@@ -1,3 +1,6 @@
+<img width="2576" height="1932" alt="image" src="https://github.com/user-attachments/assets/7db37afc-3518-4134-916b-574cb15529b4" />
+
+
 # Cappy-Board
 This is a project I made through a Stasis Hackclub Starter Project Tutorial. It is a Blinky Board, the first PCB I ever made!
 When the PCB is turned on, the LEDs will start to blink!
